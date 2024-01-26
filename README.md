@@ -57,7 +57,7 @@ yarn dev
 
 ## Project Structure
 
-- `public/`: For holding static assets like images and fonts.
+- `public/assets`: For holding static assets like images and fonts.
 
 ---
 
@@ -79,3 +79,5 @@ yarn dev
 ## Deployment
 
 This project should be deployed on vercel. Vercel provides great documentation on next.js and their hosting platform as well.
+
+# front-end-template
